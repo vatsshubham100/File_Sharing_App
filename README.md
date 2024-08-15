@@ -9,6 +9,12 @@ A simple and efficient file-sharing application built with HTML, CSS, and JavaSc
 ![File Sharing App](https://github.com/user-attachments/assets/dee44e44-2f49-455d-86c5-6419bbf46737)
 ![File Sharing App - Upload View](https://github.com/user-attachments/assets/be589599-5e2e-4d43-a9fc-541cd8175956)
 
+## 📚 Table of Contents
+
+- [Technologies Used](#-technologies-used)
+- [Features](#-features)
+- [Installation](#-installation)
+
 ## 🛠 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
@@ -23,15 +29,6 @@ A simple and efficient file-sharing application built with HTML, CSS, and JavaSc
 - **File Management**: Users can view and manage their uploaded files.
 - **Responsive Design**: The app is optimized for use on both desktop and mobile devices.
 - **Secure Storage**: Files are stored securely using MongoDB.
-
-## 📚 Table of Contents
-
-- [Technologies Used](#-technologies-used)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [License](#-license)
-- [Contributing](#-contributing)
 
 ## 💻 Installation
 
